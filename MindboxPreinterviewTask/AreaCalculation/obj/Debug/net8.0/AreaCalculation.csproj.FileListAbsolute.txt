@@ -1,0 +1,11 @@
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\obj\Debug\net8.0\AreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\obj\Debug\net8.0\AreaCalculation.AssemblyInfoInputs.cache
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\obj\Debug\net8.0\AreaCalculation.AssemblyInfo.cs
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\obj\Debug\net8.0\AreaCalculation.csproj.CoreCompileInputs.cache
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\bin\Debug\net8.0\AreaCalculation.deps.json
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\bin\Debug\net8.0\AreaCalculation.dll
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\bin\Debug\net8.0\AreaCalculation.pdb
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\obj\Debug\net8.0\AreaCalculation.dll
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\obj\Debug\net8.0\refint\AreaCalculation.dll
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\obj\Debug\net8.0\AreaCalculation.pdb
+C:\Users\IsaRu\source\repos\MindboxPreinterviewTask\AreaCalculation\obj\Debug\net8.0\ref\AreaCalculation.dll

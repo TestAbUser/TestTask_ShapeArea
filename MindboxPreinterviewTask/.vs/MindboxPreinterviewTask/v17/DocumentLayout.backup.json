@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C74CD-9FC9-4A71-834F-F0DB6042A556}|AreaCalculation\\AreaCalculation.csproj|c:\\users\\isaru\\source\\repos\\mindboxpreinterviewtask\\areacalculation\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C74CD-9FC9-4A71-834F-F0DB6042A556}|AreaCalculation\\AreaCalculation.csproj|solutionrelative:areacalculation\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C74CD-9FC9-4A71-834F-F0DB6042A556}|AreaCalculation\\AreaCalculation.csproj|c:\\users\\isaru\\source\\repos\\mindboxpreinterviewtask\\areacalculation\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C74CD-9FC9-4A71-834F-F0DB6042A556}|AreaCalculation\\AreaCalculation.csproj|solutionrelative:areacalculation\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C74CD-9FC9-4A71-834F-F0DB6042A556}|AreaCalculation\\AreaCalculation.csproj|c:\\users\\isaru\\source\\repos\\mindboxpreinterviewtask\\areacalculation\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C74CD-9FC9-4A71-834F-F0DB6042A556}|AreaCalculation\\AreaCalculation.csproj|solutionrelative:areacalculation\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C74CD-9FC9-4A71-834F-F0DB6042A556}|AreaCalculation\\AreaCalculation.csproj|c:\\users\\isaru\\source\\repos\\mindboxpreinterviewtask\\areacalculation\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C74CD-9FC9-4A71-834F-F0DB6042A556}|AreaCalculation\\AreaCalculation.csproj|solutionrelative:areacalculation\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACB559-E44B-4788-ACD4-22E7641CDF5C}|AreaCalculator.Tests\\AreaCalculator.Tests.csproj|c:\\users\\isaru\\source\\repos\\mindboxpreinterviewtask\\areacalculator.tests\\areacalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BACB559-E44B-4788-ACD4-22E7641CDF5C}|AreaCalculator.Tests\\AreaCalculator.Tests.csproj|solutionrelative:areacalculator.tests\\areacalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACB559-E44B-4788-ACD4-22E7641CDF5C}|AreaCalculator.Tests\\AreaCalculator.Tests.csproj|c:\\users\\isaru\\source\\repos\\mindboxpreinterviewtask\\areacalculator.tests\\circletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BACB559-E44B-4788-ACD4-22E7641CDF5C}|AreaCalculator.Tests\\AreaCalculator.Tests.csproj|solutionrelative:areacalculator.tests\\circletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACB559-E44B-4788-ACD4-22E7641CDF5C}|AreaCalculator.Tests\\AreaCalculator.Tests.csproj|c:\\users\\isaru\\source\\repos\\mindboxpreinterviewtask\\areacalculator.tests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BACB559-E44B-4788-ACD4-22E7641CDF5C}|AreaCalculator.Tests\\AreaCalculator.Tests.csproj|solutionrelative:areacalculator.tests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACB559-E44B-4788-ACD4-22E7641CDF5C}|AreaCalculator.Tests\\AreaCalculator.Tests.csproj|c:\\users\\isaru\\source\\repos\\mindboxpreinterviewtask\\areacalculator.tests\\areacalculator.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BACB559-E44B-4788-ACD4-22E7641CDF5C}|AreaCalculator.Tests\\AreaCalculator.Tests.csproj|solutionrelative:areacalculator.tests\\areacalculator.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AreaCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculator.Tests\\AreaCalculatorTests.cs",
+              "RelativeDocumentMoniker": "AreaCalculator.Tests\\AreaCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculator.Tests\\AreaCalculatorTests.cs",
+              "RelativeToolTip": "AreaCalculator.Tests\\AreaCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:47:45.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CircleTests.cs",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculator.Tests\\CircleTests.cs",
+              "RelativeDocumentMoniker": "AreaCalculator.Tests\\CircleTests.cs",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculator.Tests\\CircleTests.cs",
+              "RelativeToolTip": "AreaCalculator.Tests\\CircleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:56:28.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AreaCalculator.Tests",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculator.Tests\\AreaCalculator.Tests.csproj",
+              "RelativeDocumentMoniker": "AreaCalculator.Tests\\AreaCalculator.Tests.csproj",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculator.Tests\\AreaCalculator.Tests.csproj",
+              "RelativeToolTip": "AreaCalculator.Tests\\AreaCalculator.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T17:47:21.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriangleTests.cs",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculator.Tests\\TriangleTests.cs",
+              "RelativeDocumentMoniker": "AreaCalculator.Tests\\TriangleTests.cs",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculator.Tests\\TriangleTests.cs",
+              "RelativeToolTip": "AreaCalculator.Tests\\TriangleTests.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:09:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculation\\AreaCalculator.cs",
+              "RelativeDocumentMoniker": "AreaCalculation\\AreaCalculator.cs",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculation\\AreaCalculator.cs",
+              "RelativeToolTip": "AreaCalculation\\AreaCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:15:06.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculation\\Triangle.cs",
+              "RelativeDocumentMoniker": "AreaCalculation\\Triangle.cs",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculation\\Triangle.cs",
+              "RelativeToolTip": "AreaCalculation\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:47:51.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculation\\Circle.cs",
+              "RelativeDocumentMoniker": "AreaCalculation\\Circle.cs",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculation\\Circle.cs",
+              "RelativeToolTip": "AreaCalculation\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:47:16.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculation\\Shape.cs",
+              "RelativeDocumentMoniker": "AreaCalculation\\Shape.cs",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\MindboxPreinterviewTask\\AreaCalculation\\Shape.cs",
+              "RelativeToolTip": "AreaCalculation\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:37:14.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
