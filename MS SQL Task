@@ -1,0 +1,4 @@
+Select P.productName, C.categoryName
+FROM  dbo.Products as P
+LEFT JOIN dbo.Categories as C
+ON P.productId=C.productId
